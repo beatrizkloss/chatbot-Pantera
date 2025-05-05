@@ -7,7 +7,7 @@ Ele entrega informações atualizadas sobre o time de **Counter-Strike**, inclui
 
 ## 🎮 Acesse o bot
 
-👉 [Abrir no Telegram](t.me/cspantera_bot)  
+👉 [Abrir no Telegram](https://t.me/cspantera_bot)  
 
 ---
 
@@ -87,7 +87,7 @@ python app/main.py
 
 ## 🤖 Como usar no Telegram
 
-1. Acesse [t.me/cspantera_bot](t.me/cspantera_bot)  
+1. Acesse [t.me/cspantera_bot](https://t.me/cspantera_bot)  
 2. Clique em **“Start”**  
 3. Use os **botões interativos** para navegar pelas funcionalidades do bot  
 
