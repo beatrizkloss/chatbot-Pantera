@@ -13,7 +13,9 @@ Ele entrega informações atualizadas sobre o time de **Counter-Strike**, inclui
 
 ## 📸 Preview
 
- ![Menu](./app/img/start.png) ![Curtir](./app/img/Curtir.png) ![Partidas](./app/img/Partidas.png) 
+![Menu](./app/img/start.png) 
+![Curtir](./app/img/Curtir.png) 
+![Partidas](./app/img/Partidas.png) 
 
 ---
 
