@@ -3,13 +3,6 @@
 **PanteraBot** é um bot do Telegram feito com 💜 para os fãs da **FURIA CS**!  
 Ele entrega informações atualizadas sobre o time de **Counter-Strike**, incluindo **próximos jogos**, **redes sociais**, **jogadores** e **notificações ao vivo da Twitch** da FURIA.
 
----
-
-## 🎮 Acesse o bot
-
-👉 [Abrir no Telegram](https://t.me/cspantera_bot)  
-
----
 
 ## 📸 Preview
 
